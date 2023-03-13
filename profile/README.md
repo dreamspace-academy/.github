@@ -2,13 +2,10 @@
 
 # Co-Creating The Dreams
 
-* DreamSpace Academy is a non-profit social enterprise tackling local socio-economic and environmental challenges through challenge-based learning, grassroots innovation and impact venture building
+DreamSpace Academy is a non-profit social enterprise tackling local socio-economic and environmental challenges through challenge-based learning, grassroots innovation and impact venture building
 
-* [What does DreamSpace Academy do](https://www.linkedin.com/posts/one-young-world_redefining-education-for-a-better-world-activity-7023711517132869633-lTre?utm_source=share&utm_medium=member_desktop)
-
-* [The Intercultural Innovation Award 2021](https://youtu.be/3CvYwCJlFEk)
-
-* Visit [dreamspace.academy](https://dreamspace.academy/pages/1-0-index.php) to explore more
+![icon](https://user-images.githubusercontent.com/99140120/224660278-2e841fac-74ae-49bf-b264-9139624c78c0.png)
+[dreamspace.academy](https://dreamspace.academy/pages/1-0-index.php)
 
 
 
