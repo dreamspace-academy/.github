@@ -2,10 +2,10 @@
 
 # Co-Creating The Dreams
 
-DreamSpace Academy is a non-profit social enterprise tackling local socio-economic and environmental challenges through challenge-based learning, grassroots innovation and impact venture building
+DreamSpace Academy is a non-profit social enterprise tackling local socio-economic and environmental challenges through challenge-based learning, grassroots innovation and impact venture building.
 
 ![icon](https://user-images.githubusercontent.com/99140120/224660278-2e841fac-74ae-49bf-b264-9139624c78c0.png)
-[dreamspace.academy](https://dreamspace.academy/pages/1-0-index.php)
+Visit: [DreamSpace Academy](https://dreamspace.academy/pages/1-0-index.php)
 
 
 
